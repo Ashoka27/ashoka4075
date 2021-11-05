@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ashoka4075
 - 👀 I’m interested in frontend developement..
+-🎮 I'm frontend developer..
 - 🌱 I’m currently learning ..
-- 📫 ashokashok33427@gmail.com
+- 📫 to reach "ashokashok33427@gmail.com"
 
 
 <!---
