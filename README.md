@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ashoka4075
-- 👀 I’m interested in frontend developement..
+- 👋 Hi, I’m @ashok
+- 👀 I’m interested in android developement..
 - 🌱 I’m currently learning ..
 - 📫 ashokashok33427@gmail.com
 
